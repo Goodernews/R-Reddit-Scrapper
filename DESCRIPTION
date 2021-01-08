@@ -6,8 +6,8 @@ Authors@R:
            family = "Blair",
            role = c("aut", "cre"),
            email = "tblair@reed.edu",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           comment = c(ORCID = "0000-0002-2130-9256"))
+Description: Uses pushshift.io to scrape specified reddit content.
 Imports:
     jsonlite
 License: use_mit_license()
